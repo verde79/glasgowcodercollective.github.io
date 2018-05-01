@@ -2,7 +2,7 @@
 
 [The current site](https://glasgowcodercollective.github.io/)
 
-## Abous   Us
+## About   Us
 
 We are the Coder Collective! A collection of like-minded technology enthusiasts that is open to people of all (and no) experience levels. We believe programming is most productive and fun when done collectively. Come to a meeting for some social coding!
 
