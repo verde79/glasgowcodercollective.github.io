@@ -8,7 +8,7 @@ We are the Coder Collective! A collection of like-minded technology enthusiasts 
 
 While we have our origins in web development via FreeCodeCamp we encourage anyone with an ongoing project, or even just curiosity about computers, to come see what others are working on. Later if you feel you can contribute, you can.
 
-Our current project is the relaunch of the group website. However if you have a current computer-related project feel free to ask the group for help.
+Our current project is the re-launch of the group website. However if you have a current computer-related project feel free to ask the group for help.
 
 In the future we eventually plan on pooling the group’s expertise and offering a local charity to revamp their website which would serve as a learning exercise and team project and would give back to the community. Other project ideas will be considered.
 
@@ -22,7 +22,7 @@ Contributor | Contribution
 [Tracy](https://github.com/verde79) | the main page
 [Ed](https://github.com/L3gomancer) | the profile pages section
 Craig | the slack invite
-Alastair | keeping us doing things correctly/tidying up the old repo 
+Alastair | keeping us doing things correctly/tidying up the old repo
 
 
 ---
@@ -39,7 +39,3 @@ Stretch Goals include:
 
 Our previous group site was [www.glawebdev.com](www.glawebdev.com)
 previously set up by [NeilD](https://github.com/neildocherty)
-
-
-
-
